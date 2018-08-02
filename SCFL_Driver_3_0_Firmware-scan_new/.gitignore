@@ -1,0 +1,22 @@
+#Mr Developer
+.mr.developer.cfg
+*.o
+Objects/init.o
+Objects/SCFL_FW_1_0.axf
+Objects/init.o
+Objects/main.o
+*.o
+Objects/SCFL_FW_1_0.build_log.htm
+*.o
+*.__i
+Objects/SCFL_FW_1_0_STM32F207_SCFL_Driver_3_0.dep
+Objects/irq.o
+*.o
+Objects/init.o
+*.map
+*.d
+*.crf
+Objects/SCFL_FW_1_0.hex
+Objects/SCFL_FW_1_0.build_log.htm
+*.dep
+*.crf
